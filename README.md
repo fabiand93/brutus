@@ -4,11 +4,11 @@ ButerForce SSH atack with Threading !
 
 Attack entire network /24 -> in seconds!
 
-Author: Lucas Moreira 
+Author: Fabian Diaz
 
-Email: know.0nix@gmail.com
+Email: nestorfdvar@gmail.com
 
-@2015
+@2016
 ------------------------------------------
 
 
